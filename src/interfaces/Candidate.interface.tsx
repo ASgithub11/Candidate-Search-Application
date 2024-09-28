@@ -8,6 +8,6 @@ export default interface Candidate {
     readonly email?: string;
     readonly company?: string;
     readonly bio?: string;
-    readonly html_Url: string;
+    readonly html_url: string;
     declined?: boolean;
 };
