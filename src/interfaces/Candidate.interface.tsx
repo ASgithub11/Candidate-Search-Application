@@ -10,4 +10,6 @@ export default interface Candidate {
     readonly bio?: string;
     readonly html_url: string;
     declined?: boolean;
+    acceptUser?: (id: number) => void;
+    declineUser?: (id: number) => void;
 };
