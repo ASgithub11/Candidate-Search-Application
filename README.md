@@ -61,9 +61,9 @@ The Candidate Search Application is a React-based web application that allows us
 
 ## Screeshots
 
-![Alt text](<Screen Shot 2024-09-28 at 7.42.18 PM.png>)
+![Alt text](src/assets/images/Homepage.png)
 
-![Alt text](<Screen Shot 2024-09-28 at 7.44.18 PM.png>)
+![Alt text](src/assets/images/Potential_Candidates.png)
 
 ## License
 
