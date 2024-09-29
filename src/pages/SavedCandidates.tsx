@@ -40,7 +40,7 @@ const SavedCandidates = () => {
               </tr>
             </thead>
 
-            <body>
+            <tbody>
               {users.map((user) => (
                 <UserTable
                   key={user.id}
@@ -48,7 +48,7 @@ const SavedCandidates = () => {
                   {...user}
                 />
               ))}
-            </body>
+            </tbody>
           </table>
         ) : (
           <p>No saved candidates found.</p>
