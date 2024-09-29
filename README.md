@@ -26,8 +26,8 @@ The Candidate Search Application is a React-based web application that allows us
 
 1. Clone the Respository:
     ```
-    git clone https://github.com/your-username/candidate-search-app.git
-    cd candidate-search-app
+    git clone https://github.com/your-username/candidate-search-application.git
+    cd candidate-search-application
     ```
 
 2. Install Dependencies:
