@@ -1,5 +1,5 @@
 import type Candidate from "../interfaces/Candidate.interface";
-import "..index.css";
+import "../index.css";
 
 // Add table row to display the candidate details
 const UserTable = ({
