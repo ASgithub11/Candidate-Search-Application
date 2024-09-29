@@ -20,7 +20,7 @@
 
 ## Description
 
-
+The Candidate Search Application is a React-based web application that allows users to search for GitHub users and evaluate them as potential candidates. It provides a simple interface to view basic information about GitHub users and categorize them as either accepted or declined. Users can save their selections in local storage for future reference.
 
 ## Installation
 
