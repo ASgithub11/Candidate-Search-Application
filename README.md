@@ -61,9 +61,17 @@ The Candidate Search Application is a React-based web application that allows us
 
 ## Screeshots
 
+This is what the Home page look like:
+
 ![Alt text](src/assets/images/Homepage.png)
 
+This is the Saved/Potential Candidates page:
+
 ![Alt text](src/assets/images/Potential_Candidates.png)
+
+Link to the deployed site:
+
+https://candidate-search-application-cif4.onrender.com
 
 ## License
 
